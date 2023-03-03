@@ -29,3 +29,5 @@ Server will run on http://localhost:5000
 Client will run on http://127.0.0.1:5173
 
 Server URL will be required to change depending on the server deployment location.
+
+Updated OpenAI key
